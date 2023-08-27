@@ -33,7 +33,7 @@ You will need the following tools installed on your system to run these programs
 
 - Any Code Editor you like we prefer [VS Code](https://code.visualstudio.com/download)
 
-- setup C compiler, we prefer [MinGW](https://sourceforge.net/projects/mingw/)
+- setup C compiler, we prefer [MinGW](https://sourceforge.net/projects/mingw/), 
   setup Python by following this [tutorial](https://youtu.be/cUAK4x_7thA?si=Qn4rZbF85UCEZxc8)
 
   [You can follow this tutorial to install gcc in vscode for windows](https://www.youtube.com/watch?v=Ubfgi4NoTPk)
