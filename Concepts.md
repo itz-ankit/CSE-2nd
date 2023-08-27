@@ -50,6 +50,8 @@ scanf("%s",string_name);
 scanf("%[^\n]s", str);
 ```
 
+![download](https://github.com/ArchismwanChatterjee/C/assets/115975340/4762c90d-8487-4edf-83c0-7c37d64e4621)
+
 Basic visualisation of a string during memory allocation
 
 ## Pointers
