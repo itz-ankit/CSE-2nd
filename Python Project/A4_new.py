@@ -1,3 +1,4 @@
+# requires atleast python 3.10
 class Node:
     def __init__(self, data, next=None):
         self.data = data
@@ -56,7 +57,8 @@ def test_stack():
     st = Stack()
 
     while (True):
-        c = int(input("\nEnter 1 to check if stack is empty,2 to peek,3 to push,4 to pop,anything else to exit :"))
+        c = int(input(
+            "\nEnter 1 to check if stack is empty,2 to peek,3 to push,4 to pop,anything else to exit :"))
 
         match c:
             case 1:
