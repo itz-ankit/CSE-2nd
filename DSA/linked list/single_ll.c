@@ -52,7 +52,8 @@ struct Node *insertMid(struct Node *head, int num, int x)
     struct Node *temp = malloc(sizeof(struct Node));
     struct Node *node = getIndex(head, x);
     temp->data = num;
-    temp->next = node;
+    temp->next = node->next;
+    node->next=temp;
     return head;
 }
 
