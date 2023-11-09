@@ -1,0 +1,8 @@
+
+45. Write a program to find GCD and LCM of two numbers by defining a function to compute GCD and LCM.
+46. Write a program to define a function that accepts a string and calculates the number of uppercase letters and lowercase letters.
+47. Write a program to find all the unique elements of a list by defining a function.
+48. Write a program to find all the numbers divisible by 5 and 7 between the given range using the lambda function.
+49. Write a program to print the even numbers from a given list using the lambda function
+50. Write a program to find the maximum value from a list using the lambda function.
+

@@ -1,0 +1,12 @@
+Strings
+21. Write a program to count the number of each vowel in a sentence.
+
+22. Write a program to read a string and check whether the string is a palindrome or not.
+
+23. Write a program to get a string from a given string where all occurrences of the last character have been changed to ‘*’, except the last character.
+
+24. Write a program to count the occurrences of a word in a given sentence.
+
+25. Write a program to get all substrings of a given string.
+
+26. Write a program to detect whether two strings are anagrams or not.
