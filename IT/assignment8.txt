@@ -1,0 +1,7 @@
+Modules, Packages
+51. Create a module to check if a passed string is a palindrome or not. Write a program to find whether a string is a palindrome or not using this module.
+52. Create a module to check whether a number is a prime or not. Write a program to find the prime number between two limits using this module.
+53. Create a module to find the factorial of a number and import the module from the main program to find the factorial of a given number.
+54. Write a program to find the mean, median, and standard deviation of a list of random numbers between 1 and 10.
+55. Write a program to shuffle elements of a list of random numbers between given ranges.
+56. Write a program to create a list of random numbers using list comprehension
