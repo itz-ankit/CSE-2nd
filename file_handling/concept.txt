@@ -1,0 +1,40 @@
+File Handling concepts:
+
+1) Read,Write,Append : Various modes
+
+By default mode is read [r] 
+
+Different file handling operations:
+
+1)f=open(fname,mode,buffer)
+2)f.name = displays file name
+3)f.mode = displays the mode of the file
+4)f.closed = checks whether the file is closed or not 
+5)f.close = closes the file manually 
+6)with open('file.txt') as f:  = this option automatically closes the file after use 
+
+FOR READ : 
+
+1)f.read(size) = reads the file , size signifies the first n characters from the file and reads it
+2)f.readline(size) = read only the first line
+3)f.readlines(size) = read all the lines from the file and it makes a list of all those with '\n' terminator at last
+
+FOR WRITE:
+
+1)f.write(fw) = writes in the file also it over-write the previous content if present 
+2)f.writelines(fw) = write in the file generally used for writing in different lines. 
+
+[Refer write.py for better understanding]
+
+FOR APPEND:
+
+Same as write just open it in append mode (a)
+
+FILE PATH:
+
+1) For Absolute Path:
+Write r before the absolute path to make it as the raw string otherwise it will not be able to understand that as the path
+
+2) For Relative Path:
+Just write the file name and make sure that they are in the same working directory
+
